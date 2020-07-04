@@ -1,0 +1,53 @@
+     <div id="upp">
+                                                            <input type="file" id="fileToUpload" class="form-control" />
+                                                        </div>
+                                                        <div id="uName" style="display: block;" >
+                                                            <label>Adı:</label>
+                                                        </div>
+                                                        <div id="uLastname"style="display: block;">
+                                                            <label>Soyadı:</label>
+                                                        </div>
+                                                        <div id="uUsername"style="display: block;">
+                                                            <label>Kullanıcı Adı:</label>
+                                                        </div>
+                                                        <div id="uPass"style="display: block;">
+                                                            <label>Parola:</label>
+                                                        </div>
+                                                        <div id="uMail"style="display: block;">
+                                                            <label>EPosta:</label>
+                                                        </div>
+                                                        <div id="uActive"style="display: block;">
+                                                            <label>Aktif mi?</label>
+                                                        </div>
+
+
+
+  <div class="row">
+                                                            <label id="upp">
+                                                                <input type="file" id="fileToUpload" class="form-control" />
+                                                            </label>
+                                                            <br />
+                                                            <label id="uName">
+                                                                <label>Adı:</label>
+                                                            </label>
+                                                            <br />
+                                                            <label id="uLastname" >
+                                                                <label>Soyadı:</label>
+                                                            </label>
+                                                            <br />
+                                                            <label id="uUsername">
+                                                                <label>Kullanıcı Adı:</label>
+                                                            </label>
+                                                            <br />
+                                                            <label id="uPass">
+                                                                <label>Parola:</label>
+                                                            </label>
+                                                            <br />
+                                                            <label id="uMail">
+                                                                <label>EPosta:</label>
+                                                            </label>
+                                                            <br />
+                                                            <label id="uActive">
+                                                                <label>Aktif mi?</label>
+                                                            </label>
+                                                        </div>
